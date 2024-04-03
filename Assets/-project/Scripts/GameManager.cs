@@ -18,12 +18,18 @@ public class GameManager : MonoBehaviour
     public int actualLevel;
     public int nextLevel;
 
-    public static bool victory, death, stopPlayer = true;
+    public static bool victory, death, stopPlayer;
     public static float speedPlayer;
     bool desactive = true, shaking;
     float t = 100;
 
-
+    void Awake()
+    {
+        victory = false;
+        death = false;
+        stopPlayer = true;
+        speedPlayer = 0;
+    }
     void Start()
     {
         StartCoroutine(StartGame());

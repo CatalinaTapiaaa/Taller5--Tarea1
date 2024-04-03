@@ -18606,7 +18606,7 @@ MonoBehaviour:
   aniTransition: {fileID: 368173161}
   cam: {fileID: 1825248978}
   bar: {fileID: 1144678523}
-  addSpeedPlayer: 50
+  addSpeedPlayer: 300
   addSpeedTimeBar: 0
   shakingDuration: 1
   actualLevel: 1
@@ -34360,6 +34360,18 @@ PrefabInstance:
       propertyPath: speed
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5120613009043708091, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
+      propertyPath: aniMove
+      value: 
+      objectReference: {fileID: 5250250552810627550}
+    - target: {fileID: 5120613009043708091, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
+      propertyPath: groundCheckerBoxSize.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5120613009043708091, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
+      propertyPath: groundCheckerCastDistance
+      value: 0.39
+      objectReference: {fileID: 0}
     - target: {fileID: 6553273537082385205, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -34447,6 +34459,11 @@ PrefabInstance:
 --- !u!4 &5250250552810627549 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8096382932300903223, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
+  m_PrefabInstance: {fileID: 5250250552810627548}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &5250250552810627550 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 7287591584846886130, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
   m_PrefabInstance: {fileID: 5250250552810627548}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &7940502224943880004 stripped
