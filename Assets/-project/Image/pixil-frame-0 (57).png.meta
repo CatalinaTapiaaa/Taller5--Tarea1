@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 75e0d042e38e4334d8561d9ff3c5606f
+guid: e0e3841e320bc2747b291ad8c60152e5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -93,50 +93,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pixil-frame-0_0
+      name: pixil-frame-0 (57)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -150,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bc9c3971ac61be4a917983832aa15c7
-      internalID: 1562868156
+      spriteID: 37648dfa3660b4b42bc57c3bd9d0234c
+      internalID: 532197763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixil-frame-0_1
+      name: pixil-frame-0 (57)_1
       rect:
         serializedVersion: 2
         x: 16
@@ -171,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 157b6073b3806234baa554f6a30b0f5f
-      internalID: -1289969477
+      spriteID: 1c336612580d2094bb137b1f8e5f4a1c
+      internalID: 1329411359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixil-frame-0_2
+      name: pixil-frame-0 (57)_2
       rect:
         serializedVersion: 2
         x: 32
@@ -192,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f41136f993309a34b988b0cffae79690
-      internalID: 1953733626
+      spriteID: e24131caf543c0743bffb794f7219424
+      internalID: -1177629199
       vertices: []
       indices: 
       edges: []
@@ -209,9 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      pixil-frame-0_0: 1562868156
-      pixil-frame-0_1: -1289969477
-      pixil-frame-0_2: 1953733626
+      pixil-frame-0 (57)_0: 532197763
+      pixil-frame-0 (57)_1: 1329411359
+      pixil-frame-0 (57)_2: -1177629199
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

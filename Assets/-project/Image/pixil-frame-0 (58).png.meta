@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f3f23459a022e1f459af8d2c474749aa
+guid: 6032648019ebf3d42a730f34b4a9da1a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,22 +97,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pixil-frame-0 (17)_0
+      name: pixil-frame-0 (58)_0
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 0
-        width: 13
-        height: 14
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5134c31d388ffa48acf7e66bf375413
-      internalID: -1574660643
+      spriteID: 2cc07c8f3e1588345b3f99735ce9d705
+      internalID: 1282950741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-0 (58)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041555efd90fe7149beb067c0e6bee85
+      internalID: -1011978528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-0 (58)_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05538f29ac25cab43baf1ca6c77b1a03
+      internalID: -1583342639
       vertices: []
       indices: 
       edges: []
@@ -128,7 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      pixil-frame-0 (17)_0: -1574660643
+      pixil-frame-0 (58)_0: 1282950741
+      pixil-frame-0 (58)_1: -1011978528
+      pixil-frame-0 (58)_2: -1583342639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
