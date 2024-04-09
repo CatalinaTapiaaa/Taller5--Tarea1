@@ -33319,8 +33319,8 @@ MonoBehaviour:
   addSpeedPlayer: 50
   addSpeedTimeBar: 5
   shakingDuration: 1
-  actualLevel: 3
-  nextLevel: 4
+  actualLevel: 4
+  nextLevel: 5
 --- !u!1 &1243578936
 GameObject:
   m_ObjectHideFlags: 0
