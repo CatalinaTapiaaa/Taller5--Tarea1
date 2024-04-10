@@ -44561,7 +44561,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 1
-      m_TileSpriteIndex: 1
+      m_TileSpriteIndex: 4
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -50098,14 +50098,14 @@ Tilemap:
   m_TileSpriteArray:
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 1
-    m_Data: {fileID: 1893394862, guid: 7b5809dcfa67221479de47a2b1890327, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 20
     m_Data: {fileID: -2070603628, guid: 0ba5d23c4ca962440810d56effb040e5, type: 3}
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 1893394862, guid: 7b5809dcfa67221479de47a2b1890327, type: 3}
   - m_RefCount: 11
     m_Data: {fileID: -2061916438, guid: 0ba5d23c4ca962440810d56effb040e5, type: 3}
   - m_RefCount: 1
@@ -50357,7 +50357,7 @@ SpriteRenderer:
   m_Size: {x: 0.8125, y: 1.0625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &947252850
@@ -50707,7 +50707,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -50904,63 +50904,6 @@ Grid:
   m_CellGap: {x: 0, y: 0, z: 0}
   m_CellLayout: 0
   m_CellSwizzle: 0
---- !u!1001 &1718029035
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 7375342450270086419, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
-      propertyPath: m_Name
-      value: Player 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 8096382932300903223, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.53
-      objectReference: {fileID: 0}
-    - target: {fileID: 8096382932300903223, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.51
-      objectReference: {fileID: 0}
-    - target: {fileID: 8096382932300903223, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.80476856
-      objectReference: {fileID: 0}
-    - target: {fileID: 8096382932300903223, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8096382932300903223, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8096382932300903223, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8096382932300903223, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8096382932300903223, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8096382932300903223, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8096382932300903223, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: a2f191b3c4e9e1345ac4d7810fa51293, type: 3}
 --- !u!1 &1743753279
 GameObject:
   m_ObjectHideFlags: 0
@@ -52490,4 +52433,3 @@ SceneRoots:
   - {fileID: 1611877944}
   - {fileID: 1327546414}
   - {fileID: 771921053}
-  - {fileID: 1718029035}
